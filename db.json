@@ -55,6 +55,30 @@
       "runtime": 109,
       "complete": false,
       "id": 7
+    },
+    {
+      "title": "Troll 2",
+      "genre": "Horror/Comedy",
+      "year": 1990,
+      "runtime": 95,
+      "complete": false,
+      "id": 8
+    },
+    {
+      "title": "A Face in the Crowd",
+      "genre": "Drama",
+      "year": 1957,
+      "runtime": 126,
+      "complete": true,
+      "id": 9
+    },
+    {
+      "title": "Fargo",
+      "genre": "Crime",
+      "year": 1996,
+      "runtime": 98,
+      "complete": false,
+      "id": 10
     }
   ],
   "games": [
@@ -81,6 +105,88 @@
       "platform": "PS4",
       "complete": false,
       "id": 3
+    },
+    {
+      "title": "Subnautica: Below Zero",
+      "genre": "Survival",
+      "year": 2021,
+      "platform": "PC",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Paradise Killer",
+      "genre": "Investigation",
+      "year": 2020,
+      "platform": "PC",
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "A Plague Tale: Innocence",
+      "genre": "Adventure",
+      "year": 2019,
+      "platform": "PC",
+      "complete": false,
+      "id": 6
+    },
+    {
+      "title": "Portal",
+      "genre": "Puzzle",
+      "year": 2007,
+      "platform": "PS3",
+      "complete": true,
+      "id": 7
+    }
+  ],
+  "books": [
+    {
+      "title": "Duma Key",
+      "genre": "Horror",
+      "year": 2008,
+      "author": "Stephen King",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "genre": "Sci-fi",
+      "year": 1969,
+      "author": "Kurt Vonnegut",
+      "complete": false,
+      "id": 2
+    },
+    {
+      "title": "Dune",
+      "genre": "Sci-fi",
+      "year": 1965,
+      "author": "Frank Herbert",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "The First Fifteen Lives of Harry August",
+      "genre": "Sci-fi/Fantasy",
+      "year": 2014,
+      "author": "Claire North",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Neuromancer",
+      "genre": "Cyberpunk",
+      "year": 1984,
+      "author": "William Gibson",
+      "complete": true,
+      "id": 5
+    },
+    {
+      "title": "The Black Prism",
+      "genre": "Fantasy",
+      "year": 2010,
+      "author": "Brent Weeks",
+      "complete": false,
+      "id": 6
     }
   ]
 }
