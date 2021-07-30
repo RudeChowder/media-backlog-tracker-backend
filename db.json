@@ -1,16 +1,86 @@
 {
-  "posts":[
+  "movies": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "title": "12 Angry Men",
+      "genre": "Drama",
+      "year": 1957,
+      "runtime": 96,
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "The Count of Monte Cristo",
+      "genre": "Adventure",
+      "year": 2002,
+      "runtime": 134,
+      "complete": true
+    },
+    {
+      "title": "Blood Red Sky",
+      "genre": "Horror/Action",
+      "year": 2021,
+      "runtime": 121,
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Rocky",
+      "genre": "Drama",
+      "year": 1976,
+      "runtime": 122,
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Bedazzled",
+      "genre": "Comedy",
+      "year": 1967,
+      "runtime": 103,
+      "complete": false,
+      "id": 5
+    },
+    {
+      "title": "1917",
+      "genre": "War/Drama",
+      "year": 2019,
+      "runtime": 119,
+      "complete": true,
+      "id": 6
+    },
+    {
+      "title": "Old",
+      "genre": "Thriller",
+      "year": 2021,
+      "runtime": 109,
+      "complete": false,
+      "id": 7
     }
   ],
-  "comments" : [
+  "games": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "Control",
+      "genre": "Action-Adventure",
+      "year": 2019,
+      "platform": "PC",
+      "complete": false,
+      "id": 1
+    },
+    {
+      "title": "Hades",
+      "genre": "Rogue-Like",
+      "year": 2020,
+      "platform": "PC",
+      "complete": true,
+      "id": 2
+    },
+    {
+      "title": "Bloodborne",
+      "genre": "Action RPG",
+      "year": 2015,
+      "platform": "PS4",
+      "complete": false,
+      "id": 3
     }
   ]
 }
